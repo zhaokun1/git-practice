@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i modify
+=======
+others modify
+>>>>>>> 88160a9f39bda233c4a4c7cb36e4781111b8297b
